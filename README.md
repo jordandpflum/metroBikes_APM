@@ -6,3 +6,6 @@ If you wish to view the HTML file in github, please prepend this fragment to the
 
 https://raw.githubusercontent.com/jordandpflum/metroBikes_APM/master/MetroBikesReport.html --> 
 https://htmlpreview.github.io/?https://raw.githubusercontent.com/jordandpflum/metroBikes_APM/master/MetroBikesReport.html
+
+
+[HERE](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jordandpflum/metroBikes_APM/master/MetroBikesReport.html)
